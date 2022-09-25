@@ -4,4 +4,4 @@ Membuat sebuah query repeated columns yang menampilkan total transaksi per tangg
 # Penjelasan File
 1. data-to-insights.ecommerce.rev_transactions.csv = Tabel Dataset Tugas
 2. Query.sql = File Tugas Query
-3. Hasil_Query = Hasil Query Tugas
+3. Hasil_Query.csv = Hasil Query Tugas
